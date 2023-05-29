@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Link XL Center Online</name>
+   <tag></tag>
+   <elementGuidId>9c02c59a-16b9-4466-8c85-92218ed29e65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = 'https://prioritas.xl.co.id/apply/layanan-xl-center' and @target = '_blank']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8d92e819-a9b4-45a6-a85f-240ca54a4794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://prioritas.xl.co.id/apply/layanan-xl-center</value>
+      <webElementGuid>0bb966be-c0a2-4a73-b0be-7661219260d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>89261301-6f76-408a-95a9-389cff3572f1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

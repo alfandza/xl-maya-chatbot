@@ -1,0 +1,36 @@
+{
+  "keywordFileContentHash": "B0D91BA90EE89E414EB9B243D53B2B07",
+  "keywordClasses": [
+    {
+      "name": "xlchatbot.chatbotkey",
+      "keywordMethods": [
+        {
+          "name": "clickChatbot",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickChatbotXLAxiata",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickPenggunaXL",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginPenggunaXL",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickNonPenggunaXL",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

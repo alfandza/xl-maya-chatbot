@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WarningCheck_TnC</name>
+   <tag></tag>
+   <elementGuidId>94b4bf5c-5c0c-4a42-bde4-eb6044a07e6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@id = 'dolphin-warning-check-tnc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0f688295-532d-468e-af6a-5a00a2b5bb3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dolphin-warning-check-tnc</value>
+      <webElementGuid>b959b8d0-b869-49fe-b5fb-777432e32030</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

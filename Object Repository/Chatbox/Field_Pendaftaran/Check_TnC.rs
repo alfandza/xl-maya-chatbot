@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_TnC</name>
+   <tag></tag>
+   <elementGuidId>e0c408a6-0895-4922-a0fa-0ee6e32310b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'dolphin-check-tnc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ec1cb0ce-b6d0-4ce8-87df-994c020afe1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dolphin-check-tnc</value>
+      <webElementGuid>b347ded4-9717-4184-9a82-2d4cbad255e2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_PenggunaXL</name>
+   <tag></tag>
+   <elementGuidId>5a266b9a-a7b7-430d-9b53-66d5786b6e6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'dolphin-consumer' and @onclick = 'selectMenu(true)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e16c2f8-7d3f-4ce2-9821-7fada6235e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dolphin-consumer</value>
+      <webElementGuid>06746312-6776-4369-95ab-fd3754082cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>selectMenu(true)</value>
+      <webElementGuid>4cae0d5d-9faa-4564-a62a-2e20f7f63167</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

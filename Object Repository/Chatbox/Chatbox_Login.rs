@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Chatbox_Login</name>
+   <tag></tag>
+   <elementGuidId>13a1585a-f386-47f7-81e5-627baa9266d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'dolphin-login' and contains(@style, 'display: block;')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1bf2029-9fe4-443d-9970-bbb5c842e807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dolphin-login</value>
+      <webElementGuid>fdbcad95-7cd5-4c8a-b03a-1a74765ab0ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>style</name>
+      <type>Main</type>
+      <value>display: block;</value>
+      <webElementGuid>748d34e4-c8e1-41cc-9000-e2748a0259c7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

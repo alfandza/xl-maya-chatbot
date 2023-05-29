@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_NonPenggunaXL</name>
+   <tag></tag>
+   <elementGuidId>5473f2a4-ebd9-4a96-ab82-84038b0bb5dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'dolphin-non-consumer' and @onclick = 'selectMenu(false)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d374d73-5965-4298-b273-2baacf5eab56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dolphin-non-consumer</value>
+      <webElementGuid>3b877304-58bc-4e27-9d6d-df0c13a98074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>selectMenu(false)</value>
+      <webElementGuid>1773abd9-2f31-416a-9a3f-2c3401771968</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
