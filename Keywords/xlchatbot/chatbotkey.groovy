@@ -29,6 +29,11 @@ public class chatbotkey {
 		WebUI.maximizeWindow()
 
 		WebUI.navigateToUrl('https://www.xl.co.id/')
+		
+		if(WebUI.verifyElementPresent(findTestObject('Chatbox/button setuju cookies'), 30, FailureHandling.OPTIONAL)) {
+			WebUI.delay(5)
+			WebUI.click(findTestObject('Chatbox/button setuju cookies'))
+		}
 
 		if(WebUI.verifyElementNotPresent(findTestObject('Chatbox/Chatbox_Icon'), 30, FailureHandling.OPTIONAL)) {
 			WebUI.refresh()

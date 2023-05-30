@@ -37,6 +37,8 @@ WebUI.delay(5)
 
 WebUI.setText(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), 'Menu')
 
+WebUI.sendKeys(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), Keys.chord(Keys.ENTER))
+
 WebUI.comment('Pilihan Promo & Program')
 
 WebUI.click(findTestObject('Chatbot xlaxiata.com/button Promo dan Program'))
@@ -48,6 +50,8 @@ WebUI.click(findTestObject('Chatbot xlaxiata.com/Promo dan Program/button XL pri
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), 'Menu')
+
+WebUI.sendKeys(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), Keys.chord(Keys.ENTER))
 
 WebUI.comment('Pilihan Promo & Program')
 
@@ -61,6 +65,8 @@ WebUI.delay(5)
 
 WebUI.setText(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), 'Menu')
 
+WebUI.sendKeys(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), Keys.chord(Keys.ENTER))
+
 WebUI.comment('Pilihan Promo & Program')
 
 WebUI.click(findTestObject('Chatbot xlaxiata.com/button Promo dan Program'))
@@ -73,6 +79,8 @@ WebUI.delay(5)
 
 WebUI.setText(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), 'Menu')
 
+WebUI.sendKeys(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), Keys.chord(Keys.ENTER))
+
 WebUI.comment('Pilihan Promo & Program')
 
 WebUI.click(findTestObject('Chatbot xlaxiata.com/button Promo dan Program'))
@@ -84,4 +92,6 @@ WebUI.click(findTestObject('Chatbot xlaxiata.com/Promo dan Program/button Axis')
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), 'Menu')
+
+WebUI.sendKeys(findTestObject('Chatbox/Chatbox_PenggunaXL/Field_MessageChat'), Keys.chord(Keys.ENTER))
 
